@@ -7,10 +7,10 @@
 html {
   font-family: "Montserrat", sans-serif;
   font-size: 16px;
-  color: #454545;
+  color: #000000;
   margin: 0px;
   padding: 0px;
-  background-color: #cfcfcf;
+  background-color: #f1eaf9;
   text-align: center;
 }
 
@@ -20,7 +20,7 @@ header {
 header span {
   font-size: 60px;
   font-size: 2em;
-  color: #6136fb;
+  color: #342276;
 }
 h1, h2, h3, h4, h5, h6 {
   font-family: "Montserrat", sans-serif;
@@ -34,7 +34,7 @@ position: relative;
   max-width: 40em;
 }
 .answer {
-  color: #222;
+  color: #000000;
   text-transform: uppercase;
   margin: 0;
   position: absolute;
@@ -48,8 +48,8 @@ position: relative;
   font-family: "Montserrat", sans-serif;
   font-size: 30px;
   font-size: 1.875em;
-  color: #f8f8f8;
-  background-color: #9359f1;
+  color: #0f0e0e;
+  background-color: #915ee4;
   border-radius: 5px;
   border: none;
   padding: .5em 1em;
